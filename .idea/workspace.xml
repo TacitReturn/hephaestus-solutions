@@ -1,7 +1,119 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="22b66fd1-d1c1-46b3-ae7d-cf5e3efd3065" name="Default Changelist" comment="" />
+    <list default="true" id="22b66fd1-d1c1-46b3-ae7d-cf5e3efd3065" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/autoload.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/ClassLoader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_classmap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_files.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_namespaces.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_psr4.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_real.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/autoload_static.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/composer/installed.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/graham-campbell/result-type/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/graham-campbell/result-type/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/graham-campbell/result-type/src/Error.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/graham-campbell/result-type/src/Result.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/graham-campbell/result-type/src/Success.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpoption/phpoption/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpoption/phpoption/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpoption/phpoption/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpoption/phpoption/src/PhpOption/LazyOption.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpoption/phpoption/src/PhpOption/None.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpoption/phpoption/src/PhpOption/Option.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/phpoption/phpoption/src/PhpOption/Some.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/Ctype.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-ctype/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Mbstring.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Resources/unidata/lowerCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Resources/unidata/titleCaseRegexp.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/Resources/unidata/upperCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/Php80.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/Resources/stubs/Stringable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/Resources/stubs/UnhandledMatchError.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/Resources/stubs/ValueError.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/bootstrap.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/symfony/polyfill-php80/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/phpstan.src.neon.dist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Dotenv.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Exception/ExceptionInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Exception/InvalidEncodingException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Exception/InvalidFileException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Exception/InvalidPathException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Exception/ValidationException.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Loader/Loader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Loader/LoaderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Loader/Resolver.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Parser/Entry.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Parser/EntryParser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Parser/Lexer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Parser/Lines.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Parser/Parser.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Parser/ParserInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Parser/Value.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/AdapterInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/ApacheAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/ArrayAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/EnvConstAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/GuardedWriter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/ImmutableWriter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiReader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/MultiWriter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/PutenvAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReaderInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/ReplacingWriter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/ServerConstAdapter.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/Adapter/WriterInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/AdapterRepository.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/RepositoryBuilder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Repository/RepositoryInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Store/File/Paths.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Store/File/Reader.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Store/FileStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Store/StoreBuilder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Store/StoreInterface.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Store/StringStore.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Util/Regex.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Util/Str.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/vlucas/phpdotenv/src/Validator.php" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,17 +135,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration">
-    <include_path>
-      <path value="$PROJECT_DIR$/vendor/composer" />
-      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
-      <path value="$PROJECT_DIR$/vendor/graham-campbell/result-type" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
-      <path value="$PROJECT_DIR$/vendor/phpoption/phpoption" />
-      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
-    </include_path>
-  </component>
   <component name="ProjectId" id="1ftbEI06cj8tCU8xWmdZvmxJH6U" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,6 +146,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
@@ -60,14 +167,29 @@
       <option name="presentableId" value="Default" />
       <updated>1597040222532</updated>
       <workItem from="1597040223823" duration="253000" />
-      <workItem from="1597040495163" duration="837000" />
+      <workItem from="1597040495163" duration="1996000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1597042470449">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1597042470449" />
     <state x="455" y="278" key="ComposerInitDialogKey" timestamp="1597040798635">
       <screen x="0" y="0" width="1360" height="728" />
     </state>
@@ -76,5 +198,9 @@
       <screen x="0" y="0" width="1360" height="728" />
     </state>
     <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1597040395965" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1597042453033">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1597042453033" />
   </component>
 </project>
